@@ -34,3 +34,7 @@ Tic-Tac-Toe/Tic-Tac-Toe.project
 Tic-Tac-Toe/Tic-Tac-Toe.mk
 Tic-Tac-Toe/.clangd
 Tic-Tac-Toe/.clang-format
+src/Tic-Tac-Toe.project
+src/Tic-Tac-Toe.mk
+src/.clangd
+src/.clang-format
