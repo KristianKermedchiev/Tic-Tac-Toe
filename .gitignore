@@ -30,3 +30,7 @@
 *.exe
 *.out
 *.app
+Tic-Tac-Toe/Tic-Tac-Toe.project
+Tic-Tac-Toe/Tic-Tac-Toe.mk
+Tic-Tac-Toe/.clangd
+Tic-Tac-Toe/.clang-format
